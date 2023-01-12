@@ -48,6 +48,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/agysabc/KillerWhale/main/tokenList/logo/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e.png"
+    },
+    {
+      "name": "Ankr BNB Reward Bearing Certificate",
+      "symbol": "aBNBc",
+      "address": "0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A.png"
     }
   ]
 }
